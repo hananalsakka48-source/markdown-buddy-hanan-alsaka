@@ -1,8 +1,12 @@
- ---
+---
 title: "Synthetic Student Scores Analysis"
 author: "Hanan Al Saka"
 output: html_document
 ---
+
+## AI Assistance Declaration 
+
+I used ChatGPT (GPT-6) for drafting and formatting this R Markdown document and for step-by-step RStudio guidance. Prompts used: See Appendix.md for documented request summaries and key responses. I verified the calculations by running the R script in RStudio and previewed the HTML report. All final calculations were performed by me using RStudio. I am responsible for the accuracy and originality of this work.
 
 # Purpose
 
