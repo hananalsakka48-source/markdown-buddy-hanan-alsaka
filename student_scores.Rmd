@@ -1,0 +1,27 @@
+ ---
+title: "Synthetic Student Scores Analysis"
+author: "Hanan Al Saka"
+output: html_document
+---
+
+# Purpose
+
+This document explains an R script that analyzes synthetic student scores by calculating the mean, maximum, and minimum values.
+
+## Inputs
+
+The script uses five synthetic student scores: 75, 82, 90, 68, and 85. No real student data is used.
+
+## Outputs
+
+The script displays the student scores and calculates the mean, maximum, and minimum scores.
+
+## R Code Example
+
+```{r}
+scores <- c(75, 82, 90, 68, 85)
+print(scores)
+mean(scores)
+max(scores)
+min(scores)
+```
